@@ -1,5 +1,5 @@
 # AI-projects
-1. maze  
+## 1. maze  
  - find shortest path using BFS and A star Algorithm  
  - Heuristic function  
      1) Manhattan Distance  
